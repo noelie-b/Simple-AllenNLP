@@ -2,7 +2,7 @@
 #-*- coding: utf-8 -*-
 
 # Projet dans le cadre du cours de "Méthodes en apprentissage automatique" du master PluriTAL
-# Auteurs : BOTTERO Noélie & PHOMMADY Elodie
+# Auteur : BOTTERO Noélie
 
 
 from pathlib import Path
