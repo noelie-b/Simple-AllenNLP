@@ -1,0 +1,50 @@
+[
+  {
+    "type": "int",
+    "attributes": {
+      "name": "dim",
+      "low": 5,
+      "high": 100
+    }
+  },
+  {
+    "type": "categorical",
+    "attributes": {
+      "name": "batch_size",
+      "choices": [128, 256]
+    }
+  },
+  {
+    "type": "float",
+    "attributes": {
+      "name": "lr",
+      "low": 5e-3,
+      "high": 5e-1,
+      "log": true
+    }
+  },
+  {
+    "type": "int",
+    "attributes": {
+      "name": "max_filter_size",
+      "low": 2,
+      "high": 6
+    }
+  },
+  {
+    "type": "int",
+    "attributes": {
+      "name": "num_filters",
+      "low": 32,
+      "high": 256
+    }
+  },
+  {
+    "type": "float",
+    "attributes": {
+      "name": "dropout",
+      "low": 0.0,
+      "high": 0.8
+    }
+  }
+]
