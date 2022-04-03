@@ -1,6 +1,6 @@
 # Projet dans le cadre du cours de "Méthodes en apprentissage automatique" du master PluriTAL
 
-> BOTTERO Noélie & PHOMMADY Elodie
+> BOTTERO Noélie
 
 
 
